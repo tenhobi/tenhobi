@@ -13,7 +13,7 @@
 
 - 👨‍🎓 I study _software engineerïng_ at [FIT CTU](https://fit.cvut.cz/en)
 - 💻 In love with Dart and Flutter
-- 💬 Ask me about on Discord [tenhobi#3744](https://discordapp.com/users/302127992258428929)
+- 💬 Ask me about anything on Discord [tenhobi#3744](https://discordapp.com/users/302127992258428929)
 - 🌱 I love [cooking](https://instagram.com/napapaney)!
 
 <!--
