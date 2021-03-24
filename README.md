@@ -4,12 +4,12 @@
 About me:
 
 - 👨‍🎓 I study _software engineerïng_ at [FIT CTU](https://fit.cvut.cz/en)
-- 💬 Ask me about anything on Discord [tenhobi#3744](https://discordapp.com/users/302127992258428929)
+- 💬 Ask me about anything on [Discord](https://discordapp.com/users/302127992258428929)
 - 💻 In love with [Dart](https://dart.dev) and [Flutter](https://flutter.dev)
 - 😇 I’m looking to collaborate on open source projects
 - 🌱 I love [cooking](https://instagram.com/napapaney)!
 
-Links:
+Contacts:
 
 - [Instagram](https://instagram.com/tenhobi)
 - [Discord](https://discordapp.com/users/302127992258428929)
