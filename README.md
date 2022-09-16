@@ -1,8 +1,8 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm tenhobi</h2>
 
-## I'm a Postgraduate Student, Developer, and in love with Cooking.
+## I'm Developer, Teacher, and in love with Cooking.
 
-- 👨‍🎓 I study _software engineerïng_ at [FIT CTU](https://fit.cvut.cz/en)
+- 👨‍🎓 Master's degree from _software engineerïng_ at [FIT CTU](https://fit.cvut.cz/en)
 - 💬 Ask me about anything on [Discord](https://discordapp.com/users/302127992258428929)
 - 💻 In love with [Dart](https://dart.dev) and [Flutter](https://flutter.dev)
 - 😇 I’m looking to collaborate on open source projects
