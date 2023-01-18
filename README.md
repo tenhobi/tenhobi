@@ -13,7 +13,7 @@ I am a Flutter Developer at [NetGlade](https://netglade.com) in Prague, Czechia.
 - [Macbook Pro 2021 M1](https://www.apple.com/macbook-pro-14-and-16)
 - Logitech [K860](https://www.logitech.com/en-us/products/keyboards/k860-split-ergonomic.920-009166.html) and [MX Vertical](https://www.logitech.com/en-us/products/mice/mx-vertical-ergonomic-mouse.910-005447.html)
 - [Android Studio](https://developer.android.com/studio) and other [JetBrains](https://www.jetbrains.com)' products
-- [Obsidian](https://obsidian.md/) for notes
+- [Notion](https://notion.so) for notes
 
 ### Contacts
 
